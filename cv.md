@@ -19,7 +19,7 @@ Able to work in a highly collaborative work environment, focused on finding solu
 
 ###### Front-End Developer Learner
 
-*January 2022 - Present*
+*June 2022 - Present*
 - HTML/CSS
 - Javascript
 - Git
@@ -29,7 +29,7 @@ Able to work in a highly collaborative work environment, focused on finding solu
 
 ###### HTML Developer Learner
 
-*March 2020 - July 2020*
+*January 2022 - May 2022*
  - HTML/CSS
 
 ###### LANGUAGES
