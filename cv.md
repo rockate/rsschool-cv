@@ -4,12 +4,12 @@
 
 [dikusarkate@gmail.com](mailto:dikusarkate@gmail.com)
 [+375295707577](tel:+375295707577)
-[Skype](skype:<kate.dikusar>?call)
 
 ###### SUMMARY
 
 ***
 An enthusiastic Junior Frontend Developer with knowledge in HTML and CSS, Javascript, React, striving to provide value to the projects. Able to work in a highly collaborative work environment. Proactive person with IT sales experience behind.
+
 ###### EXPERIENCE
 
 ***
