@@ -36,3 +36,8 @@ An enthusiastic Junior Frontend Developer with knowledge in HTML and CSS, Javasc
 ***
 Russian - Native
 English - Upper-Intermediate
+
+###### EDUCATION
+
+***
+BSEU - The High School Of Tourism And Economy - (2010 - 2015)
