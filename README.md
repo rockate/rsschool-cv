@@ -1,1 +1,1 @@
-# rsschool-cv
+https://rockate.github.io/rsschool-cv/
